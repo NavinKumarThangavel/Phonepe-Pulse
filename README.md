@@ -10,7 +10,8 @@
 
 **Domain**: Fintech
 
-============================================================================================================================================
+========================================================================================================================================================================================
+
 **Problem Statement**:
   The Phonepe pulse Github repository contains a large amount of data related to various metrics and statistics. 
   The goal is to extract this data and process it to obtain insights and information that can be visualized in a user-friendly manner. 
@@ -26,13 +27,18 @@
   The solution must be secure, efficient, and user-friendly. The dashboard must be easily accessible and provide valuable insights and information 
   about the data in the Phonepe pulse Github repository.
 
-========================================================================================================================================================
-**Steps to Access project**
-Check out the link below to learn more about PhonepePlus.
-   https://github.com/PhonePe/pulse#readme
-   
-Use the link below to utilize Phonepeplus data.
-  !git clone https://github.com/PhonePe/pulse.git"
+=======================================================================================================================================================================================
 
-Run terminal Streamlit run Home.py.
-You can access Streamlit Application in your browser and play around this project features.
+**Steps to Access project**
+
+•	Check out the link below to learn more about PhonepePlus.
+    o	https://github.com/PhonePe/pulse#readme
+
+•	Use the link below to utilize Phonepeplus data.
+    o	!git clone https://github.com/PhonePe/pulse.git"
+
+•	Run terminal Streamlit run Home.py.
+
+•	You can access Streamlit Application in your browser and play around this project features.
+
+========================================================================================================================================================================================
